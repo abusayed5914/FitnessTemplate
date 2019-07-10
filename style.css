@@ -1,0 +1,127 @@
+body{
+	margin:0px;
+	padding:0px;
+
+}
+.header{margin-top:70px;}
+
+.dropdown-menu{text-align:center; }
+
+.dropdown-menu :hover{color:red!important; }
+
+
+.navbar {
+    border: 1px solid orange;
+	
+}
+.navbar-header{margin:10px; }
+.navbar-brand {font-size:35px;color:white!important;}
+
+
+
+.nav.navbar-nav li a{
+	font-size:17px; 
+	color:orange;
+	margin-top:10px;
+	margin-left:20px;
+	}
+
+.nav.navbar-nav li a:hover{color:white; }
+
+.my_row{background:black;}
+
+.my_icon{
+	margin-top:30px;
+	font-size:100px;
+	color:orange;
+	
+}
+.my_icon h4{
+	
+	color:black;
+}
+
+.my_icon p{
+	margin-bottom:50px;
+	font-size:15px;
+	color:black;
+	}
+
+.caption{text-align:center;}
+.section h2{
+	font-size:40px;
+	text-align:center;
+	margin-top:80px;
+}
+
+.section h3{
+	font-size:15px;
+	font-style: italic;
+	margin-top:30px;
+	margin-bottom:50px;
+	text-align:center;
+
+}
+.thumbnail img{margin-top:10px;}
+
+.thumbnail_1 img{
+	height:260px;
+	Width:550px;
+	text-align:left;
+	margin:0px;
+	padding:0px
+	}
+.thumbnail_1 img {margin-left:-7px; margin-top:8px; margin-bottom:8px}
+
+
+.about{margin-top:60px;}
+.my_timeline img{
+	border-radius:50%;
+	padding:30px;
+	display:block;
+	margin-top:10px;
+	margin: 0 auto
+}
+.my_timeline{margin-bottom:50px;}
+
+.my_timeline2 p{text-align:right;}
+.my_timeline2 h4{text-align:right;}
+
+.team{background:#EEEEEE;}
+.team1{margin-top:50px;}
+.head{
+	text-align:center;margin-top:50px; 
+}
+
+
+.my_text2{margin-top:50px; margin-bottom:50px;}
+
+.clients img {
+  margin: 60px auto;
+
+}
+.my_img{margin-top:50px;}
+
+.contact{
+	background:#E1E5FE;margin-top:30px; color:Black;
+}
+
+.my_contant{margin-bottom:50px;margin-top:40px;}
+.form-control{margin-top:15px;}
+.btn1{margin-top:40px;color:Black}
+
+
+.footer {
+
+	padding: 25px;
+	text-align:center;
+	font-size:30px;
+}
+
+video{
+
+   margin-left:10px;
+	width:310px;
+}
+
+.biceps{margin-top:60px;}
